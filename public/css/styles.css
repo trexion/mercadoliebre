@@ -66,6 +66,24 @@ nav ul li i {
     font-size: 24px;
 }
 
-footer i {
+.footer i {
     color: #03264C;
+    font-size: 25px;
+}
+
+.footer {
+    text-align: center;
+    background-color: white;
+}
+
+.footer-section {
+    padding-top: 20px;
+}
+
+.footer-description {
+    color: #666;;
+}
+
+.footer-title {
+    color: #666;;
 }
