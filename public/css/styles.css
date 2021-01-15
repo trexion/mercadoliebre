@@ -1,0 +1,71 @@
+.header {
+    background-color: #EAC926;
+}
+
+body {
+    font-family: roboto, sans-serif;
+    margin: 0;
+    padding: 0;
+    font-size: 12px;
+    background-color: #ebebeb;
+}
+
+nav ul {
+    list-style-type: none;
+    text-align: left;
+    padding: 0;
+}
+
+#slogan-container {
+    text-align: center;
+}
+
+nav ul a {
+    text-decoration: none;
+    color: black;
+}
+
+#search-button {
+    border: none;
+    padding: 0;
+    border-radius: 1px;
+}
+
+#menu-button-container {
+    text-align: center;
+}
+
+#menu-button {
+    background-color: #03264C;
+    color: white;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+nav ul li i {
+    margin-left: 5px;
+}
+
+.product {
+    background-color: white;
+}
+
+.price {
+    font-size: 18px;
+}
+
+.discount {
+    font-size: 16px;
+}
+
+.description {
+    font-size: 16px;
+}
+
+.title {
+    font-size: 24px;
+}
+
+footer i {
+    color: #03264C;
+}
